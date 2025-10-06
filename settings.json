@@ -1,0 +1,4 @@
+{
+    "python.useEnvironmentsExtension": true,
+    "python.venvPath": "${workspaceFolder}/.venv"
+}

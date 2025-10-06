@@ -1,0 +1,9 @@
+[MASTER]
+disable=
+    C0114, # missing-module-docstring
+    C0115, # missin-class-docstring
+    C0116, # missing-function-docstring
+    C0301, # line too long
+    W0718, # Exception granularity
+    R0913, # Too many args
+    R0917, # Too many args
